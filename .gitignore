@@ -1,0 +1,12 @@
+# Dipendenze Python e VirtualEnv
+venv/
+__pycache__/
+*.pyc
+
+# Dipendenze React
+node_modules/
+dist/
+
+# File di ambiente
+.env
+.DS_Store
